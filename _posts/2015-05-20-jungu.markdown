@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jungu Lee"
+title:  "2012136102 이준구 포스트 입니다!!"
 date:   2015-05-20 12:00:00
 categories: jekyll update
 ---
