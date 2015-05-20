@@ -9,19 +9,27 @@ categories: jekyll update
 **Jungu Lee**
 *Jungu Lee*
 [naver link](http://naver.com)
-#Jungu Lee
-##Jungu Lee
-###Jungu Lee
-####Jungu Lee
-#####Jungu Lee
+# Jungu Lee
+## Jungu Lee
+### Jungu Lee
+#### Jungu Lee
+##### Jungu Lee
 
 AAA
 ======
 
 AAA
 -----
-![enter image description here](http://tv03.search.naver.net/thm?size=120x150&quality=9&q=http://sstatic.naver.net/people/51/201211261202124291.jpg)
+![photo](http://tv03.search.naver.net/thm?size=120x150&quality=9&q=http://sstatic.naver.net/people/51/201211261202124291.jpg)
 
 
+> jungu
+> block
+> good
+
+1. number1
+2. number2
+3. number3
+4. number4
 
 
