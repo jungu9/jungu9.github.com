@@ -29,8 +29,11 @@ categories: jekyll update
 
 
 1.재현
+
 2.준구
-3.은지철
+
+3.은지
+
 4.윤철
 
 inline-style :
