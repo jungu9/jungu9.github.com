@@ -1,52 +1,61 @@
-# Dependencies
-markdown:	redcarpet
-pygments:	true
+# Site settings
+title: Your awesome title
+tagline: And Tagline
+email: webcreatelk@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I’m a professional UI/UX designrer and web developer. 
+  I love being minimal and creative.
+baseurl: "/gaya" # the subpath of your site, e.g. /blog/
+url: "http://webcreate.lk" # the base hostname & protocol for your site
+logourl: /assets/images/logo.png # Site logo
+author: "Tom Warlker"
+author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+# Theme customization - please change from the defaults!
+theme:
+  # Color for sidebar bar, links, etc
+  highlight_color: "#205081" #205081" # "#272935"
+  # Social media links, leave blank to ignore
+  social: 
+    github: gayanvirajith
+    twitter: gayanvirajith
+    facebook: gayanvirajith
+    gplus: +gayanvirajith
+    # dribble: gayanvirajith
+    pinterest: gayanvirajith
+
+  # Enable share buttons on post footer
+  show_share_buttons: true
+
+  # Show author picure, name and social links on post footer
+  show_author_info: true
+
+  # Disqus comments manager - shortname
+  # disqus_shortname: gaya-webcreate
+
+  # Google Analytics/Webmaster key, leave blank to ignore
+  google_analytics_key: 
+  google_webmaster_key: 
+
+# Build settings
+markdown: kramdown
 
 # Permalinks
-permalink:	/blog/:title
+permalink:        pretty
 
-# Setup
-title:		Thinny
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+# Pagination config
+paginate: 5
 
-author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+# Files/Folders to be excluded from generated _site folder
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
 
-paginate:	5
-
-# Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
-
-social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
-    desc:	Follow me on twitter
-
-  - icon:	github
-    url:	https://github.com/camporez
-    desc:	Fork me on github
-
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
-    
-menu:
-  - title:	Home
-    url:	/
-    
-  - title:	About
-    url:	/about
-    
-copyright:
-  author:	Camporez
-  url:		http://camporez.com
-  type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+# Sass conversion configs
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
