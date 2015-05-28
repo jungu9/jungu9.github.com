@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 월드컵블로그으ㅡ으으으으ㅗ ㅗㅗㅗㅗㅗ
 tagline: Site Tagline
 author :
   name : Name Lastname
@@ -69,6 +69,7 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
+  korea_path: /korea.html
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
