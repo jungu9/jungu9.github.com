@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post-index
-title:월드컵 블로그 테스트
+title: Latest Posts
 description: "Describe this nonsense."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
@@ -9,6 +9,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
@@ -38,6 +39,7 @@ image:
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
+
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
