@@ -1,4 +1,4 @@
-title:            월드컵 블로그
+﻿title:            월드컵 블로그
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -11,8 +11,8 @@ url:
 owner:
   name:           9조
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            9조 월드컵 블로그 입니다.
+  email:          월드컵@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
