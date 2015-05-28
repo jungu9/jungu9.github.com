@@ -1,7 +1,7 @@
 ---
 layout: page
-title: test
+title: 월드컵 블로그 테스트
 tagline: Supporting tagline
 ---
-test
+안녕? ㅋ
 
