@@ -1,7 +1,7 @@
 ---
-title : 
+title : 월드컵 공인구
 layout : post
-category : 역사
+category : 공인구
 ---
 
 ![ball](http://cafeptthumb1.phinf.naver.net/20140619_68/tj377_1403142423207fe5we_JPEG/-1634447743.jpg?type=w740)
