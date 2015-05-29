@@ -1,6 +1,5 @@
 ---
 layout: post
-category : lessons
 tagline: "Supporting tagline"
 tags : [역사]
 ---
