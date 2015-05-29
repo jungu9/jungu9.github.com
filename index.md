@@ -1,7 +1,5 @@
 ---
 layout: page
-title: 월드컵 블로그
+title: Ole World Cup Blog
 ---
-안녕? ㅋ
-
-![enter image description here](/image/main.jpg)
+![enter image description here](/image/main2.jpg)
