@@ -4,4 +4,18 @@ theme :
 layout: default
 ---
 {% include JB/setup %}
+
+ {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+    {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}
+
 {% include themes/bootstrap-3/post.html %}
